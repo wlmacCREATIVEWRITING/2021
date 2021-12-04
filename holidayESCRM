@@ -7,7 +7,9 @@
   <div class="buttonOverlay">
     <div class="textBox">
       <div class="startText">
-        START
+      
+        <a style="text-decoration:none; color:white;" href="google.com">START</a>
+        
       </div>
     </div>
   </div>
@@ -94,6 +96,5 @@
   font-family: 'Fuzzy Bubbles'; 
   font-size: 65px; 
   line-height: 17px; 
-  color: white;
   text-align: center;
 }</style>
