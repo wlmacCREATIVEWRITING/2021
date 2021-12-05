@@ -1,4 +1,5 @@
 <style>@import url('https://fonts.googleapis.com/css?family=Fuzzy+Bubbles');</style>
+<embed src="https://www.youtube.com/watch?v=sCabI3MdV9g&ab_channel=J.Jay" loop="true" autostart="true" width="0" height="0">
 
 <div class="workshopBackground"></div>
 <div class="button">
@@ -17,7 +18,7 @@
 
 <style>
   body{  
-  background:url('https://www.pcinvasion.com/wp-content/uploads/2020/08/Wasteland-3-Clown-Museum-Santas-Workshop-Elf-on-a-Shelf-sidequest-1a.jpg');
+  background:url(https://cdn.staticcrate.com/stock-hd/effects/slow-falling-vertically-and-wiggling-prev-full.png), url('https://www.pcinvasion.com/wp-content/uploads/2020/08/Wasteland-3-Clown-Museum-Santas-Workshop-Elf-on-a-Shelf-sidequest-1a.jpg');
   height:1000px;
 }
 
@@ -98,3 +99,6 @@
   line-height: 17px; 
   text-align: center;
 }</style>
+
+<style>
+
